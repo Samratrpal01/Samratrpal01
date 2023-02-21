@@ -1,7 +1,7 @@
 ![logo](https://media.licdn.com/dms/image/C4D16AQHdsU1h3PAPrQ/profile-displaybackgroundimage-shrink_350_1400/0/1656129392011?e=1682553600&v=beta&t=LM1I0HtdvALsumfAPEVtVxSoEeWWJBZmF7icIGYiAtE)
 <h1 align="center">Hi 👋, I'm Rahul Pal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU"> 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samratrpal01&label=Profile%20views&color=0e75b6&style=flat" alt="samratrpal01" /> </p>
 
 - 🔭 I’m currently working on **Sentiment Analysis**
