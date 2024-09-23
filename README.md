@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sentiment Analysis**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **.Net Full Stack Developer Currently working on Nagarro**
 
 - 👯 I’m looking to collaborate on [Join2Code](http://join2code.lovestoblog.com/home_page.php?i=1)
 
