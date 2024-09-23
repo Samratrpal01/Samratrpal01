@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 <br>
 
 ![logo](https://media.licdn.com/dms/image/C4D16AQHdsU1h3PAPrQ/profile-displaybackgroundimage-shrink_350_1400/0/1656129392011?e=1682553600&v=beta&t=LM1I0HtdvALsumfAPEVtVxSoEeWWJBZmF7icIGYiAtE)
